@@ -1,4 +1,4 @@
 # datasets
 Different datasets for use.
 
-Here you can find different datasets that I am planning to ad time by time
+*Disclaimer: Data used in this folder and in my account is for education and non-profit use. Was impersonalized.
