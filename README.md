@@ -15,3 +15,8 @@ Datasets related to Bina_Az project ** [Link to Project on GitHub](https://githu
 **NLTK**
 
 Data related to Natural Language Toolkit.
+
+**Tutorial_datasets**
+
+Data related to tutorials about DS and stuff around it.
+
