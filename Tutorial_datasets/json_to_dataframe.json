@@ -1,0 +1,32 @@
+[
+ {
+   "f_name": "Omar",
+   "l_name": "Bayramov",
+   "email_adrs": "omarbayramov@hotmail.com",
+   "a_status": 1
+ },
+ {
+   "f_name": "Ali",
+   "l_name": "Aliyev",
+   "email_adrs": "alialiyev@example.com",
+   "a_status": 0
+ },
+ {
+   "f_name": "Dmitry",
+   "l_name": "Vladimirov",
+   "email_adrs": "v.dmitry@koala.kl",
+   "a_status": 1
+ },
+ {
+   "f_name": "Donald",
+   "l_name": "Trump",
+   "email_adrs": "grabthat@pussycatdolls.com",
+   "a_status": 1
+ },
+ {
+   "f_name": "Rashid",
+   "l_name": "Maniyev",
+   "email_adrs": "rashid.maniyev@exponential.az",
+   "a_status": 1
+ }
+]
